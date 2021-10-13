@@ -2590,7 +2590,11 @@ header .header-logo a {
 	color: #FFFFFF;
 }
 
-.bricks-wrapper .item-wrap .item-text,
+.bricks-wrapper .item-wrap .item-text {
+	opacity: 1;
+	visibility: visible;
+}
+
 .bricks-wrapper .item-wrap .details-link {
 	opacity: 0;
 	visibility: hidden;
