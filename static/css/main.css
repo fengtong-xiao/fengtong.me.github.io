@@ -2541,7 +2541,7 @@ header .header-logo a {
 	-ms-transform: scale(0.5);
 	transform: scale(0.5);
 }
-
+.bricks-wrapper .item-wrap .item-text-hide,
 .bricks-wrapper .item-wrap .item-text {
 	position: absolute;
 	top: 0;
@@ -2551,12 +2551,14 @@ header .header-logo a {
 	z-index: 3;
 }
 
+.bricks-wrapper .item-wrap .item-text-hide .folio-title,
 .bricks-wrapper .item-wrap .item-text .folio-title {
 	color: #FFFFFF;
 	font-size: 4rem;
 	line-height: 1.364;
 }
 
+.bricks-wrapper .item-wrap .item-text-hide .folio-types,
 .bricks-wrapper .item-wrap .item-text .folio-types {
 	font-family: "Myriad Pro", sans-serif;
 	font-size: 2rem;
@@ -2595,6 +2597,7 @@ header .header-logo a {
 	visibility: visible;
 }
 
+.bricks-wrapper .item-wrap .item-text-hide,
 .bricks-wrapper .item-wrap .details-link {
 	opacity: 0;
 	visibility: hidden;
@@ -2628,6 +2631,7 @@ header .header-logo a {
 }
 
 .bricks-wrapper .item-wrap:hover .item-text,
+.bricks-wrapper .item-wrap:hover .item-text-hide,
 .bricks-wrapper .item-wrap:hover .details-link {
 	opacity: 1;
 	visibility: visible;

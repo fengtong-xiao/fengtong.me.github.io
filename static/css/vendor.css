@@ -4002,15 +4002,15 @@ body:not(.lg-from-hash) .lg-outer.lg-start-zoom .lg-item.lg-complete .lg-object 
 }
 
 .lg-outer .lg-has-vimeo .lg-video-play {
-	background: url("../images/lightgallery/vimeo-play.png") no-repeat scroll 0 0 transparent;
+	background: url("../lightgallery/vimeo-play.png") no-repeat scroll 0 0 transparent;
 }
 
 .lg-outer .lg-has-vimeo:hover .lg-video-play {
-	background: url("../images/lightgallery/vimeo-play.png") no-repeat scroll 0 -58px transparent;
+	background: url("../lightgallery/vimeo-play.png") no-repeat scroll 0 -58px transparent;
 }
 
 .lg-outer .lg-has-html5 .lg-video-play {
-	background: transparent url("../images/lightgallery/video-play.png") no-repeat scroll 0 0;
+	background: transparent url("../lightgallery/video-play.png") no-repeat scroll 0 0;
 	height: 64px;
 	margin-left: -32px;
 	margin-top: -32px;
@@ -4023,11 +4023,11 @@ body:not(.lg-from-hash) .lg-outer.lg-start-zoom .lg-item.lg-complete .lg-object 
 }
 
 .lg-outer .lg-has-youtube .lg-video-play {
-	background: url("../images/lightgallery/youtube-play.png") no-repeat scroll 0 0 transparent;
+	background: url("../lightgallery/youtube-play.png") no-repeat scroll 0 0 transparent;
 }
 
 .lg-outer .lg-has-youtube:hover .lg-video-play {
-	background: url("../images/lightgallery/youtube-play.png") no-repeat scroll 0 -60px transparent;
+	background: url("../lightgallery/youtube-play.png") no-repeat scroll 0 -60px transparent;
 }
 
 .lg-outer .lg-video-object {
@@ -4339,7 +4339,7 @@ body:not(.lg-from-hash) .lg-outer.lg-start-zoom .lg-item.lg-complete .lg-object 
 }
 
 .lg-outer .lg-item {
-	background: url("../images/lightgallery/loading.gif") no-repeat scroll center center transparent;
+	background: url("../lightgallery/loading.gif") no-repeat scroll center center transparent;
 	display: none !important;
 }
 
